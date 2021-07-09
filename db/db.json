@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "likes": 0,
+      "title": "Angular App 3",
+      "categories": "Blog Post Application",
+      "content": "Blog Post App by varun",
+      "id": 2
+    },
+    {
+      "likes": 0,
+      "title": "Node JS Assignment",
+      "categories": "BackEnd",
+      "content": "wdf",
+      "id": 3
+    }
+  ]
+}
